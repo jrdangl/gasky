@@ -1,0 +1,40 @@
+body{
+    font-family:'Lucida Sans';
+    background-color:bisque;
+}
+h1{
+    color:black !important;
+}
+.font-weight-bold{
+    color:black !important;
+}
+
+div styles
+.common{
+    font-family:'Courier New';
+    position:absoulte
+}
+.top{
+    top:0px;
+    right:0px;
+    left:0px;
+}
+.middle{
+    top: 100px;
+    left:0px;
+    right: 0px;
+}
+.bottom{
+    position: fixed;
+    bottom:0px;
+    left:0px;
+    right:0px;
+    font-style:italic;
+    background-color: turquoise;
+    font-weight: bold;
+}
+.imgcenter{
+    display:grid;
+    margin:auto;
+    border: 5px solid green;
+}
